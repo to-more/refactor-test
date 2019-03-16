@@ -1,10 +1,10 @@
 
-####Explanation of item 1
+#### Explanation of item 1
 
  * Reduce the number of parameters (method logMessage) because that indicates that the method does a lot of things
  * Replace if statements for a more polymorphic structure 
  * Implement a strategy to manage the different ways of logging
  * Implement a singleton for database connection 
  
- ####TODO
+ #### TODO
  * Make the singleton thread-safe
