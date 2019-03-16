@@ -8,6 +8,7 @@
  
  #### TODO
  * Make the singleton thread-safe
+ * Extract database parameters to a configuration file
  
  #### Run test
  ```bash
