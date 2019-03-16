@@ -8,3 +8,8 @@
  
  #### TODO
  * Make the singleton thread-safe
+ 
+ #### Run test
+ ```bash
+ ./gradlew clean test
+```
